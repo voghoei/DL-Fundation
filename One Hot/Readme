@@ -1,1 +1,2 @@
-This explane the 
+One Hot Encode with Keras
+How to create the 0/1 encode from each char in the word and create the 2D array for each string
